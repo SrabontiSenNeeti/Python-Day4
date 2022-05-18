@@ -42,7 +42,7 @@ print(str.count("e"))
 
 
 #bool
-print(bool(None))
+#print(bool(None))
 
 
 
